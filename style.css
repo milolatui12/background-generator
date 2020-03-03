@@ -1,0 +1,10 @@
+body    {
+    text-transform: uppercase;
+    text-align: center;
+    background: linear-gradient(to right, #0000ff, #ff0000);
+}
+
+h1, h2 {
+    letter-spacing: .5em;
+    color: rgba(0, 0, 0, .5);
+}
